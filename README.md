@@ -4,9 +4,7 @@
 
 This project aims to create a codebase that follows accessibility standards so that the site is optimized for search engines.
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -15,13 +13,11 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+Follow the URL link provided: https://jsskilton.github.io/marketing-agency/
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+Navigation bar at the top links to the three sections: Search Engine Optimization, Online Reputation Management, Social Media Marketing
 
 ![alt text](assets/images/screenshot.png)
 

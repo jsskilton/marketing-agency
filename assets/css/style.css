@@ -36,7 +36,7 @@ body {
     font-size: 20px;
 }
 
-/* cant see that this does anything */
+/* forces the nav list items onto one line */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
